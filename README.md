@@ -1,8 +1,18 @@
 # [Astro](https://astro.build) Blog Template
 
-[![Screenshot](screenshot.png)](https://astro-blog-template.netlify.app/)
+[![Screenshot](screenshot.png)](https://astro-blog-template.edgeone.run/)
 
-## 👉 Check out the ✨ [Live Demo](https://astro-blog-template.netlify.app/) ✨
+## 👉 Check out the ✨ [Live Demo](https://astro-blog-template.edgeone.run/) ✨
+
+## 🚀 Deploy
+
+One-click deploy this starter to Tencent EdgeOne Pages (installs dependencies, runs `npm run build`, and serves `dist/` automatically).
+
+[![Deploy to Tencent EdgeOne Pages](https://img.shields.io/badge/Deploy-Tencent%20EdgeOne%20Pages-006EFF?style=for-the-badge&logo=tencentqq&logoColor=white)](https://console.tencentcloud.com/edgeone/pages/new?template=https%3A%2F%2Fgithub.com%2Fnuonuo-888%2Fastro-blog-template&output-directory=dist&build-command=npm+run+build&install-command=npm+install&origin_from=childtom)
+
+## 👁 Preview
+
+[![Preview](https://img.shields.io/badge/Preview-4ECCA3?style=for-the-badge&logo=globe&logoColor=white)](https://astro-blog-template.edgeone.run/)
 
 ## 👩‍🚀 Getting Started
 
@@ -11,10 +21,6 @@
 ```
 npm init astro -- --template Charca/astro-blog-template
 ```
-
-### On StackBlitz
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/charca/astro-blog-template)
 
 ## ✨ Features:
 
